@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946746335777",
+    "project_id": "multi-user-authentication-app",
+    "storage_bucket": "multi-user-authentication-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946746335777:android:e9269606ac06152331f960",
+        "android_client_info": {
+          "package_name": "com.baps.multi_user_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946746335777-9t7hl03tmm3la5cg4mouic9k0iq24e8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkY2BVSBKfe6ykMCdLdFGVB9_QEoxtcVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946746335777-9t7hl03tmm3la5cg4mouic9k0iq24e8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
